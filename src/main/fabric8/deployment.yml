@@ -5,4 +5,4 @@ spec:
       containers:
         - resources:
             limits:
-              memory: '250Mi'
+              memory: '245Mi'
